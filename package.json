@@ -1,0 +1,12 @@
+{
+  "name": "FoodTrackerApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Samed Walker <samedwalker50@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^3.5.1",
+    "parcel": "^2.0.0-rc.0",
+    "snackbar": "^1.1.0"
+  }
+}
